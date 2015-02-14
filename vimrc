@@ -87,6 +87,11 @@ if has('gui_running')
     colorscheme solarized
 endif
 
-" Normal mode switch between windows
+" Normal mode switch between tabs
 nmap <silent> <Left> :tabp<CR>
 nmap <silent> <Right> :tabn<CR>
+
+" Tab helpers
+noremap <Leader>s :split
+noremap <Leader>v :vnew
+noremap <Leader>t :tabe <C-R><CR>

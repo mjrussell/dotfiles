@@ -62,7 +62,7 @@ let g:syntastic_check_on_wq = 0
 
 " Don't clutter my dirs up with swp and tmp files
 set backupdir=~/.tmp
-set directory=~/.tmp 
+set directory=~/.tmp
 
 let mapleader = ","
 
@@ -71,6 +71,10 @@ imap ;; <Esc>
 
 " clear search quickly
 map <Leader><space> :noh<cr>
+
+" Centers the next result on the page
+map N Nzz
+map n nzz
 
 " Other remaps
 noremap <Leader>n :set nopaste<cr>
@@ -82,3 +86,7 @@ if has('gui_running')
     set background=dark
     colorscheme solarized
 endif
+
+" Normal mode switch between windows
+nmap <silent> <Left> :tabp<CR>
+nmap <silent> <Right> :tabn<CR>

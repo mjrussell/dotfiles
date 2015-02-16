@@ -95,3 +95,6 @@ nmap <silent> <Right> :tabn<CR>
 noremap <Leader>s :split
 noremap <Leader>v :vnew
 noremap <Leader>t :tabe <C-R><CR>
+
+" Disable quote hiding in json from https://github.com/elzr/vim-json
+let g:vim_json_syntax_conceal = 0

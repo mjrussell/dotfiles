@@ -98,3 +98,7 @@ noremap <Leader>t :tabe <C-R><CR>
 
 " Disable quote hiding in json from https://github.com/elzr/vim-json
 let g:vim_json_syntax_conceal = 0
+" Arline
+let g:airline_theme='murmur'
+let g:airline_powerline_fonts = 1
+set guifont=Inconsolata-g\ for\ Powerline:h11

@@ -5,11 +5,93 @@
 	<key>DHCheatRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>Atom</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-12T21:08:14Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>name</key>
+					<string>Atom</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Atom</string>
+				</dict>
+			</dict>
+			<key>Git</key>
+			<dict>
+				<key>date</key>
+				<date>2019-01-28T05:03:49Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>terminal</string>
+						<string>shell</string>
+						<string>bash</string>
+						<string>zsh</string>
+					</array>
+					<key>name</key>
+					<string>Git</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Git</string>
+				</dict>
+			</dict>
+			<key>Git_Flow</key>
+			<dict>
+				<key>date</key>
+				<date>2018-09-22T15:57:21Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>terminal</string>
+						<string>shell</string>
+						<string>bash</string>
+						<string>zsh</string>
+					</array>
+					<key>name</key>
+					<string>Git Flow</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Git_Flow</string>
+				</dict>
+			</dict>
+			<key>Vim</key>
+			<dict>
+				<key>date</key>
+				<date>2019-01-07T16:01:40Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>name</key>
+					<string>Vim</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Vim</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
 	<key>DHClojureRepo</key>
+	<dict>
+		<key>installed</key>
+		<dict/>
+		<key>uninstalled</key>
+		<dict/>
+	</dict>
+	<key>DHCocoaRepo</key>
 	<dict>
 		<key>installed</key>
 		<dict/>
@@ -40,9 +122,1173 @@
 	<key>DHHaskellRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>HaXml</key>
+			<dict>
+				<key>date</key>
+				<date>2018-11-02T16:47:58Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>HaXml</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>HaXml</string>
+				</dict>
+			</dict>
+			<key>aeson</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-13T01:26:43Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>aeson</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>aeson</string>
+				</dict>
+			</dict>
+			<key>aeson-better-errors</key>
+			<dict>
+				<key>date</key>
+				<date>2016-12-14T20:42:23Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>aeson-better-errors</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>aeson-better-errors</string>
+				</dict>
+			</dict>
+			<key>amqp</key>
+			<dict>
+				<key>date</key>
+				<date>2019-07-08T21:10:35Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>amqp</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>amqp</string>
+				</dict>
+			</dict>
+			<key>base</key>
+			<dict>
+				<key>date</key>
+				<date>2018-09-25T19:05:46Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>base</string>
+				</dict>
+			</dict>
+			<key>bitwise</key>
+			<dict>
+				<key>date</key>
+				<date>2018-04-29T16:02:55Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>bitwise</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>bitwise</string>
+				</dict>
+			</dict>
+			<key>cereal</key>
+			<dict>
+				<key>date</key>
+				<date>2019-06-04T22:55:00Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>cereal</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>cereal</string>
+				</dict>
+			</dict>
+			<key>classy-prelude</key>
+			<dict>
+				<key>date</key>
+				<date>2018-10-09T18:30:29Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>classy-prelude</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>classy-prelude</string>
+				</dict>
+			</dict>
+			<key>composite-aeson</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-30T01:04:12Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>composite-aeson</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>composite-aeson</string>
+				</dict>
+			</dict>
+			<key>composite-base</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-30T01:03:45Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>composite-base</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>composite-base</string>
+				</dict>
+			</dict>
+			<key>composite-ekg</key>
+			<dict>
+				<key>date</key>
+				<date>2018-04-14T18:46:37Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>composite-ekg</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>composite-ekg</string>
+				</dict>
+			</dict>
+			<key>composite-opaleye</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-30T01:04:05Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>composite-opaleye</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>composite-opaleye</string>
+				</dict>
+			</dict>
+			<key>conduit</key>
+			<dict>
+				<key>date</key>
+				<date>2019-03-12T16:03:15Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>conduit</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>conduit</string>
+				</dict>
+			</dict>
+			<key>connection</key>
+			<dict>
+				<key>date</key>
+				<date>2019-09-03T02:45:03Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>connection</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>connection</string>
+				</dict>
+			</dict>
+			<key>either</key>
+			<dict>
+				<key>date</key>
+				<date>2019-05-03T17:12:11Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>either</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>either</string>
+				</dict>
+			</dict>
+			<key>generic-lens</key>
+			<dict>
+				<key>date</key>
+				<date>2019-10-02T19:16:17Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>generic-lens</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>generic-lens</string>
+				</dict>
+			</dict>
+			<key>generics-eot</key>
+			<dict>
+				<key>date</key>
+				<date>2019-03-14T16:03:03Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>generics-eot</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>generics-eot</string>
+				</dict>
+			</dict>
+			<key>generics-sop</key>
+			<dict>
+				<key>date</key>
+				<date>2019-05-10T17:13:09Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>generics-sop</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>generics-sop</string>
+				</dict>
+			</dict>
+			<key>haskeline</key>
+			<dict>
+				<key>date</key>
+				<date>2019-01-17T22:11:55Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>haskeline</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>haskeline</string>
+				</dict>
+			</dict>
+			<key>hspec</key>
+			<dict>
+				<key>date</key>
+				<date>2019-03-30T04:26:34Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>hspec</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>hspec</string>
+				</dict>
+			</dict>
+			<key>hspec-expectations</key>
+			<dict>
+				<key>date</key>
+				<date>2018-06-28T17:17:41Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>hspec-expectations</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>hspec-expectations</string>
+				</dict>
+			</dict>
+			<key>http-conduit</key>
+			<dict>
+				<key>date</key>
+				<date>2019-10-11T02:13:11Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>http-conduit</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>http-conduit</string>
+				</dict>
+			</dict>
+			<key>http-types</key>
+			<dict>
+				<key>date</key>
+				<date>2019-02-24T16:09:06Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>http-types</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>http-types</string>
+				</dict>
+			</dict>
+			<key>immortal</key>
+			<dict>
+				<key>date</key>
+				<date>2018-04-16T18:56:34Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>immortal</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>immortal</string>
+				</dict>
+			</dict>
+			<key>keys</key>
+			<dict>
+				<key>date</key>
+				<date>2019-05-03T17:12:19Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>keys</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>keys</string>
+				</dict>
+			</dict>
+			<key>lens</key>
+			<dict>
+				<key>date</key>
+				<date>2019-09-16T21:36:10Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>lens</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>lens</string>
+				</dict>
+			</dict>
+			<key>lifted-async</key>
+			<dict>
+				<key>date</key>
+				<date>2019-05-03T17:12:32Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>lifted-async</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>lifted-async</string>
+				</dict>
+			</dict>
+			<key>logging</key>
+			<dict>
+				<key>date</key>
+				<date>2018-07-03T15:30:19Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>logging</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>logging</string>
+				</dict>
+			</dict>
+			<key>megaparsec</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-11T01:26:20Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>megaparsec</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>megaparsec</string>
+				</dict>
+			</dict>
+			<key>mmorph</key>
+			<dict>
+				<key>date</key>
+				<date>2019-04-30T17:12:36Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>mmorph</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>mmorph</string>
+				</dict>
+			</dict>
+			<key>monad-control</key>
+			<dict>
+				<key>date</key>
+				<date>2018-02-26T18:10:28Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>monad-control</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>monad-control</string>
+				</dict>
+			</dict>
+			<key>monad-logger</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-26T15:40:00Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>monad-logger</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>monad-logger</string>
+				</dict>
+			</dict>
+			<key>mongoDB</key>
+			<dict>
+				<key>date</key>
+				<date>2019-06-16T05:09:17Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>mongoDB</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>mongoDB</string>
+				</dict>
+			</dict>
+			<key>mtl</key>
+			<dict>
+				<key>date</key>
+				<date>2018-02-25T18:10:55Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>mtl</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>mtl</string>
+				</dict>
+			</dict>
+			<key>mustache</key>
+			<dict>
+				<key>date</key>
+				<date>2017-11-28T01:31:15Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>mustache</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>mustache</string>
+				</dict>
+			</dict>
+			<key>opaleye</key>
+			<dict>
+				<key>date</key>
+				<date>2019-09-11T20:03:11Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>opaleye</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>opaleye</string>
+				</dict>
+			</dict>
+			<key>persistent</key>
+			<dict>
+				<key>date</key>
+				<date>2019-10-31T05:00:30Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>persistent</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>persistent</string>
+				</dict>
+			</dict>
+			<key>persistent-mongoDB</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-21T01:04:18Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>persistent-mongoDB</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>persistent-mongoDB</string>
+				</dict>
+			</dict>
+			<key>persistent-postgresql</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-01T05:00:30Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>persistent-postgresql</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>persistent-postgresql</string>
+				</dict>
+			</dict>
+			<key>persistent-template</key>
+			<dict>
+				<key>date</key>
+				<date>2019-10-29T05:00:01Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>persistent-template</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>persistent-template</string>
+				</dict>
+			</dict>
+			<key>postgresql-simple</key>
+			<dict>
+				<key>date</key>
+				<date>2019-04-27T17:13:37Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>postgresql-simple</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>postgresql-simple</string>
+				</dict>
+			</dict>
+			<key>protocol-buffers</key>
+			<dict>
+				<key>date</key>
+				<date>2019-12-03T05:42:22Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>protocol-buffers</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>protocol-buffers</string>
+				</dict>
+			</dict>
+			<key>protocol-buffers-descriptor</key>
+			<dict>
+				<key>date</key>
+				<date>2019-12-03T05:42:00Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>protocol-buffers-descriptor</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>protocol-buffers-descriptor</string>
+				</dict>
+			</dict>
+			<key>rawstring-qm</key>
+			<dict>
+				<key>date</key>
+				<date>2018-01-04T20:56:30Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>rawstring-qm</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>rawstring-qm</string>
+				</dict>
+			</dict>
+			<key>resourcet</key>
+			<dict>
+				<key>date</key>
+				<date>2018-10-09T18:26:04Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>resourcet</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>resourcet</string>
+				</dict>
+			</dict>
+			<key>servant</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-03T21:10:29Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>servant</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>servant</string>
+				</dict>
+			</dict>
+			<key>servant-client</key>
+			<dict>
+				<key>date</key>
+				<date>2019-09-16T21:26:58Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>servant-client</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>servant-client</string>
+				</dict>
+			</dict>
+			<key>servant-server</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-03T21:10:02Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>servant-server</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>servant-server</string>
+				</dict>
+			</dict>
+			<key>singleton-bool</key>
+			<dict>
+				<key>date</key>
+				<date>2019-06-20T05:58:07Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>singleton-bool</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>singleton-bool</string>
+				</dict>
+			</dict>
+			<key>singletons</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-30T02:03:09Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>singletons</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>singletons</string>
+				</dict>
+			</dict>
+			<key>smallcheck-series</key>
+			<dict>
+				<key>date</key>
+				<date>2019-02-20T16:01:12Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>smallcheck-series</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>smallcheck-series</string>
+				</dict>
+			</dict>
+			<key>soap</key>
+			<dict>
+				<key>date</key>
+				<date>2018-03-17T18:34:03Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>soap</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>soap</string>
+				</dict>
+			</dict>
+			<key>soap-openssl</key>
+			<dict>
+				<key>date</key>
+				<date>2017-06-20T16:23:47Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>soap-openssl</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>soap-openssl</string>
+				</dict>
+			</dict>
+			<key>soap-tls</key>
+			<dict>
+				<key>date</key>
+				<date>2018-03-18T17:31:23Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>soap-tls</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>soap-tls</string>
+				</dict>
+			</dict>
+			<key>stm</key>
+			<dict>
+				<key>date</key>
+				<date>2018-09-22T15:57:48Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>stm</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>stm</string>
+				</dict>
+			</dict>
+			<key>stm-chans</key>
+			<dict>
+				<key>date</key>
+				<date>2017-02-05T18:34:44Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>stm-chans</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>stm-chans</string>
+				</dict>
+			</dict>
+			<key>stm-conduit</key>
+			<dict>
+				<key>date</key>
+				<date>2018-09-27T19:01:19Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>stm-conduit</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>stm-conduit</string>
+				</dict>
+			</dict>
+			<key>syb</key>
+			<dict>
+				<key>date</key>
+				<date>2019-06-16T05:08:44Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>syb</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>syb</string>
+				</dict>
+			</dict>
+			<key>tar</key>
+			<dict>
+				<key>date</key>
+				<date>2019-08-27T01:03:42Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>tar</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>tar</string>
+				</dict>
+			</dict>
+			<key>tasty-hspec</key>
+			<dict>
+				<key>date</key>
+				<date>2018-11-16T02:24:34Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>tasty-hspec</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>tasty-hspec</string>
+				</dict>
+			</dict>
+			<key>tasty-smallcheck</key>
+			<dict>
+				<key>date</key>
+				<date>2017-09-08T15:38:09Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>tasty-smallcheck</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>tasty-smallcheck</string>
+				</dict>
+			</dict>
+			<key>text-show</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-07T15:06:53Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>text-show</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>text-show</string>
+				</dict>
+			</dict>
+			<key>these</key>
+			<dict>
+				<key>date</key>
+				<date>2019-07-26T21:09:31Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>these</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>these</string>
+				</dict>
+			</dict>
+			<key>transformers</key>
+			<dict>
+				<key>date</key>
+				<date>2019-02-02T05:04:05Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>transformers</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>transformers</string>
+				</dict>
+			</dict>
+			<key>turtle</key>
+			<dict>
+				<key>date</key>
+				<date>2019-09-19T21:27:13Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>turtle</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>turtle</string>
+				</dict>
+			</dict>
+			<key>vinyl</key>
+			<dict>
+				<key>date</key>
+				<date>2019-10-01T19:15:56Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>vinyl</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>vinyl</string>
+				</dict>
+			</dict>
+			<key>wai</key>
+			<dict>
+				<key>date</key>
+				<date>2019-06-21T13:48:53Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>wai</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>wai</string>
+				</dict>
+			</dict>
+			<key>wai-websockets</key>
+			<dict>
+				<key>date</key>
+				<date>2018-03-19T18:33:53Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>wai-websockets</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>wai-websockets</string>
+				</dict>
+			</dict>
+			<key>warp</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-07T15:05:52Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>warp</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>warp</string>
+				</dict>
+			</dict>
+			<key>websockets</key>
+			<dict>
+				<key>date</key>
+				<date>2019-10-30T05:00:38Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>websockets</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>websockets</string>
+				</dict>
+			</dict>
+			<key>wrecker</key>
+			<dict>
+				<key>date</key>
+				<date>2018-01-15T20:21:04Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>wrecker</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>wrecker</string>
+				</dict>
+			</dict>
+			<key>wreq</key>
+			<dict>
+				<key>date</key>
+				<date>2019-01-25T22:11:13Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>wreq</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>wreq</string>
+				</dict>
+			</dict>
+			<key>xml-conduit</key>
+			<dict>
+				<key>date</key>
+				<date>2018-09-15T15:22:15Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>xml-conduit</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>xml-conduit</string>
+				</dict>
+			</dict>
+			<key>xml-conduit-parse</key>
+			<dict>
+				<key>date</key>
+				<date>2017-11-28T01:31:07Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>xml-conduit-parse</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>xml-conduit-parse</string>
+				</dict>
+			</dict>
+			<key>xml-conduit-writer</key>
+			<dict>
+				<key>date</key>
+				<date>2017-09-30T18:09:58Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>xml-conduit-writer</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>xml-conduit-writer</string>
+				</dict>
+			</dict>
+			<key>xml-types</key>
+			<dict>
+				<key>date</key>
+				<date>2017-06-21T17:51:08Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>xml-types</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>xml-types</string>
+				</dict>
+			</dict>
+			<key>yaml</key>
+			<dict>
+				<key>date</key>
+				<date>2019-11-07T15:05:56Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>yaml</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>yaml</string>
+				</dict>
+			</dict>
+			<key>yesod</key>
+			<dict>
+				<key>date</key>
+				<date>2018-02-02T21:26:11Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>yesod</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>yesod</string>
+				</dict>
+			</dict>
+			<key>yesod-websockets</key>
+			<dict>
+				<key>date</key>
+				<date>2019-06-17T05:08:49Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>yesod-websockets</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>yesod-websockets</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
-		<dict/>
+		<dict>
+			<key>align</key>
+			<dict>
+				<key>date</key>
+				<date>2017-01-10T18:30:21Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>align</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>align</string>
+				</dict>
+			</dict>
+			<key>data-object-yaml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-12-09T18:04:56Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>data-object-yaml</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>data-object-yaml</string>
+				</dict>
+			</dict>
+			<key>morph</key>
+			<dict>
+				<key>date</key>
+				<date>2018-06-17T03:45:18Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>morph</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>morph</string>
+				</dict>
+			</dict>
+			<key>yesod-core</key>
+			<dict>
+				<key>date</key>
+				<date>2018-06-22T17:45:01Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>yesod-core</string>
+					<key>platform</key>
+					<string>hackage</string>
+					<key>uniqueIdentifier</key>
+					<string>yesod-core</string>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>DHHexRepo</key>
 	<dict>
@@ -51,6 +1297,8 @@
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
+	<key>DHHighlightedWebViewTextSizeMultiplier</key>
+	<real>1.440000057220459</real>
 	<key>DHJavaRepo</key>
 	<dict>
 		<key>installed</key>
@@ -75,25 +1323,147 @@
 	<key>DHScalaRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>org.scalacheck:scalacheck_2.11</key>
+			<dict>
+				<key>date</key>
+				<date>2019-09-28T22:08:41Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>org.scalacheck:scalacheck_2.11</string>
+					<key>platform</key>
+					<string>scaladoc</string>
+					<key>uniqueIdentifier</key>
+					<string>org.scalacheck:scalacheck_2.11</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
-		<dict/>
+		<dict>
+			<key>org.scalaz:scalaz-core_2.11</key>
+			<dict>
+				<key>date</key>
+				<date>2017-01-30T22:15:22Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>org.scalaz:scalaz-core_2.11</string>
+					<key>platform</key>
+					<string>scaladoc</string>
+					<key>uniqueIdentifier</key>
+					<string>org.scalaz:scalaz-core_2.11</string>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>DHStackOverflowRepo</key>
 	<dict>
 		<key>installed</key>
 		<dict/>
 		<key>uninstalled</key>
-		<dict/>
+		<dict>
+			<key>React_Online</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:52:02Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>react.js</string>
+						<string>reactjs</string>
+					</array>
+					<key>name</key>
+					<string>React (Online)</string>
+					<key>platform</key>
+					<string>soonline</string>
+					<key>uniqueIdentifier</key>
+					<string>React_Online</string>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>DHUserRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>DraftJS</key>
+			<dict>
+				<key>date</key>
+				<date>2017-03-20T04:16:29Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>draft</string>
+						<string>draftjs</string>
+					</array>
+					<key>authorLinkHref</key>
+					<string>https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/DraftJS#readme</string>
+					<key>authorLinkText</key>
+					<string>Remko Tronçon</string>
+					<key>name</key>
+					<string>DraftJS</string>
+					<key>platform</key>
+					<string>usercontribDraftJS</string>
+					<key>uniqueIdentifier</key>
+					<string>DraftJS</string>
+				</dict>
+			</dict>
+			<key>Immutable.js</key>
+			<dict>
+				<key>date</key>
+				<date>2016-04-19T02:51:18Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>immutable</string>
+						<string>immutable-js</string>
+						<string>immutablejs</string>
+					</array>
+					<key>authorLinkHref</key>
+					<string>https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/Immutable.js#readme</string>
+					<key>authorLinkText</key>
+					<string>Michal Cichra</string>
+					<key>name</key>
+					<string>Immutable.js</string>
+					<key>platform</key>
+					<string>usercontribImmutable.js</string>
+					<key>uniqueIdentifier</key>
+					<string>Immutable.js</string>
+				</dict>
+			</dict>
+			<key>Ramda</key>
+			<dict>
+				<key>date</key>
+				<date>2019-05-20T04:02:36Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>authorLinkHref</key>
+					<string>https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/Ramda#readme</string>
+					<key>authorLinkText</key>
+					<string>Alex Bepple</string>
+					<key>name</key>
+					<string>Ramda</string>
+					<key>platform</key>
+					<string>usercontribRamda</string>
+					<key>uniqueIdentifier</key>
+					<string>Ramda</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
+	<key>DHWebViewIsDark</key>
+	<true/>
 	<key>actuallyDarkWebView</key>
+	<false/>
+	<key>annotationsAreShown</key>
 	<true/>
 	<key>docsets</key>
 	<dict>
@@ -103,7 +1473,98 @@
 	<key>feeds</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>http://kapeli.com/feeds/Akka.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:58Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Chai.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-05-05T04:41:08Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Docker.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-02-25T18:48:11Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/HTML.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:18Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Haskell.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:13Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/JavaScript.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:49Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Java_SE8.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:27Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Lo-Dash.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:46:11Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Man_Pages.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-02-25T18:47:52Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Mocha.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-05-05T04:41:06Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/MomentJS.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-04-28T19:36:46Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/MongoDB.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-05-24T15:08:01Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/NodeJS.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-08-19T18:31:57Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Play_Scala.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:57Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/PostgreSQL.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2017-02-27T21:26:26Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/React.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:41Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Scala.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2015-12-10T23:43:57Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Sinon.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-05-04T22:58:18Z</date>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
@@ -119,7 +1580,107 @@
 			<key>name</key>
 			<string>Default</string>
 			<key>searchSnippets</key>
-			<false/>
+			<true/>
+		</dict>
+		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/DocSets/Haskell/Haskell.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/wai/wai.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/warp/warp.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/yesod/yesod.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/lens/lens.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/transformers/transformers.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/mtl/mtl.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/classyprelude/classyprelude.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/base/base.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/either/either.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/monadcontrol/monadcontrol.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/persistent/persistent.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/persistentmongoDB/persistentmongoDB.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/wreq/wreq.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/persistentpostgresql/persistentpostgresql.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/aeson/aeson.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/conduit/conduit.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/syb/syb.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/yaml/yaml.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/cereal/cereal.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/aesonbettererrors/aesonbettererrors.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/tar/tar.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/textshow/textshow.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/these/these.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/keys/keys.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/stm/stm.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/stmchans/stmchans.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/stmconduit/stmconduit.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/waiwebsockets/waiwebsockets.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/websockets/websockets.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/yesodwebsockets/yesodwebsockets.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/connection/connection.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/turtle/turtle.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/smallcheckseries/smallcheckseries.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/tastysmallcheck/tastysmallcheck.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/httptypes/httptypes.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/servantclient/servantclient.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/servant/servant.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/httpconduit/httpconduit.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/soap/soap.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/soapopenssl/soapopenssl.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/soaptls/soaptls.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/xmlconduitparse/xmlconduitparse.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/xmlconduitwriter/xmlconduitwriter.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/xmlconduit/xmlconduit.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/xmltypes/xmltypes.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/HaXml/HaXml.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/vinyl/vinyl.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/compositebase/compositebase.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/compositeaeson/compositeaeson.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/opaleye/opaleye.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/compositeekg/compositeekg.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/compositeopaleye/compositeopaleye.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/servantserver/servantserver.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/immortal/immortal.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/postgresqlsimple/postgresqlsimple.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/haskeline/haskeline.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/mustache/mustache.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/wrecker/wrecker.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/megaparsec/megaparsec.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/rawstringqm/rawstringqm.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/hspec/hspec.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/bitwise/bitwise.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/liftedasync/liftedasync.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/mmorph/mmorph.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/yesod-core - DHHaskellRepo/1-4-37-3/yesodcore.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/tastyhspec/tastyhspec.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/hspecexpectations/hspecexpectations.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/resourcet/resourcet.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/logging/logging.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/genericseot/genericseot.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/genericssop/genericssop.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/amqp/amqp.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/genericlens/genericlens.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/protocolbuffersdescriptor/protocolbuffersdescriptor.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/protocolbuffers/protocolbuffers.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/monadlogger/monadlogger.docset</string>
+				<string>~/Library/Application Support/Dash/Haskell DocSets/mongoDB/mongoDB.docset</string>
+			</array>
+			<key>name</key>
+			<string>Haskell</string>
+			<key>searchSnippets</key>
+			<true/>
+			<key>triggers</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>"hask:" is typed in the main search field</string>
+					<key>image</key>
+					<string>searchKeywordIcon</string>
+					<key>isKeywordTrigger</key>
+					<true/>
+					<key>keyword</key>
+					<string>hask:</string>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>icon</key>
@@ -130,6 +1691,104 @@
 			<string>Search Snippets</string>
 			<key>searchSnippets</key>
 			<true/>
+		</dict>
+		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/DocSets/JavaScript/JavaScript.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/Lo-Dash/Lo-Dash.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/Mocha/Mocha.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/NodeJS/NodeJS.docset</string>
+				<string>~/Library/Application Support/Dash/User Contributed/DraftJS/Draft.js.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/Sinon/Sinon.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/MomentJS/MomentJS.docset</string>
+				<string>~/Library/Application Support/Dash/User Contributed/Immutablejs/immutable-js.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/React/React.docset</string>
+			</array>
+			<key>name</key>
+			<string>Client</string>
+			<key>searchSnippets</key>
+			<true/>
+			<key>triggers</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>"client:" is typed in the main search field</string>
+					<key>image</key>
+					<string>searchKeywordIcon</string>
+					<key>isKeywordTrigger</key>
+					<true/>
+					<key>keyword</key>
+					<string>client:</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/DocSets/Scala/Scala.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/ioargonautargonaut211 - DHScalaRepo/6-2-M2/argonaut.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/ioargonautargonaut-scalaz211 - DHScalaRepo/6-2-M2/argonautscalaz.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgspecs2specs2-scalacheck211 - DHScalaRepo/3-7-3/specs2scalacheck.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgscalazscalaz-concurrent211 - DHScalaRepo/7-2-4/scalazconcurrent.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgscalazscalaz-core211 - DHScalaRepo/7-2-4/scalazcore.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/comtypesafeplayplay-specs2211 - DHScalaRepo/2-4-8/PlaySpecs2.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/deflapdoodleembeddeflapdoodleembedmongo - DHJavaRepo/1-50-5/FlapdoodleEmbeddedMongoDB.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/comtypesafeplayplay-ws211 - DHScalaRepo/2-4-8/PlayWS.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgreactivemongoplay2-reactivemongo211 - DHScalaRepo/0-12-1-play24/Play2ReactiveMongo.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/comtypesafeplayplay211 - DHScalaRepo/2-4-8/Play.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/Akka/Akka.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgreactivemongoreactivemongo211 - DHScalaRepo/0-12-1/ReactiveMongo.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgspecs2specs2211 - DHScalaRepo/3-0/specs2.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgspecs2specs2-core211 - DHScalaRepo/3-7-3/specs2core.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/comtwitterfinagle-http211 - DHScalaRepo/6-35-0/finaglehttp.docset</string>
+				<string>~/Library/Application Support/Dash/DocSets/Java_SE8/Java.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/joda-timejoda-time - DHJavaRepo/2-3/JodaTime.docset</string>
+				<string>~/Library/Application Support/Dash/Scala DocSets/orgscalacheckscalacheck211/scalacheck.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/comtypesafeplayplay-json211 - DHScalaRepo/2-4-8/PlayJson.docset</string>
+			</array>
+			<key>name</key>
+			<string>Scala</string>
+			<key>placeholder</key>
+			<string></string>
+			<key>searchSnippets</key>
+			<true/>
+			<key>triggers</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>"scal:" is typed in the main search field</string>
+					<key>image</key>
+					<string>searchKeywordIcon</string>
+					<key>isKeywordTrigger</key>
+					<true/>
+					<key>keyword</key>
+					<string>scal:</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/VMware vSphere - DHDocsetDownloader/6-5/VMware vSphere.docset</string>
+			</array>
+			<key>name</key>
+			<string>Vmware</string>
+			<key>searchSnippets</key>
+			<true/>
+			<key>triggers</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>"vmware:" is typed in the main search field</string>
+					<key>image</key>
+					<string>searchKeywordIcon</string>
+					<key>isKeywordTrigger</key>
+					<true/>
+					<key>keyword</key>
+					<string>vmware:</string>
+				</dict>
+			</array>
 		</dict>
 	</array>
 	<key>searchKey</key>
@@ -150,8 +1809,8 @@
 	<true/>
 	<key>shouldShowStatusIcon</key>
 	<false/>
-	<key>shouldSyncBookmarks</key>
-	<false/>
+	<key>shouldStartAtLogin</key>
+	<true/>
 	<key>shouldSyncDocsets</key>
 	<true/>
 	<key>shouldSyncGeneral</key>
@@ -168,6 +1827,13 @@
 		<dict/>
 	</dict>
 	<key>versionedDHClojureRepo</key>
+	<dict>
+		<key>installed</key>
+		<dict/>
+		<key>uninstalled</key>
+		<dict/>
+	</dict>
+	<key>versionedDHCocoaRepo</key>
 	<dict>
 		<key>installed</key>
 		<dict/>
@@ -198,7 +1864,25 @@
 	<key>versionedDHHaskellRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>yesod-core</key>
+			<dict>
+				<key>1.4.37.3</key>
+				<dict>
+					<key>date</key>
+					<date>2018-06-22T17:44:00Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>yesod-core</string>
+						<key>platform</key>
+						<string>hackage</string>
+						<key>uniqueIdentifier</key>
+						<string>yesod-core</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
@@ -212,7 +1896,42 @@
 	<key>versionedDHJavaRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>de.flapdoodle.embed:de.flapdoodle.embed.mongo</key>
+			<dict>
+				<key>1.50.5</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:18:04Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>de.flapdoodle.embed:de.flapdoodle.embed.mongo</string>
+						<key>platform</key>
+						<string>javadoc</string>
+						<key>uniqueIdentifier</key>
+						<string>de.flapdoodle.embed:de.flapdoodle.embed.mongo</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>joda-time:joda-time</key>
+			<dict>
+				<key>2.3</key>
+				<dict>
+					<key>date</key>
+					<date>2017-02-01T03:56:01Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>joda-time:joda-time</string>
+						<key>platform</key>
+						<string>javadoc</string>
+						<key>uniqueIdentifier</key>
+						<string>joda-time:joda-time</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
@@ -233,9 +1952,266 @@
 	<key>versionedDHScalaRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>com.twitter:finagle-http_2.11</key>
+			<dict>
+				<key>6.35.0</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-31T18:09:16Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>com.twitter:finagle-http_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>com.twitter:finagle-http_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>com.typesafe.play:play-json_2.11</key>
+			<dict>
+				<key>2.4.8</key>
+				<dict>
+					<key>date</key>
+					<date>2017-03-02T23:23:37Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>com.typesafe.play:play-json_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>com.typesafe.play:play-json_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>com.typesafe.play:play-specs2_2.11</key>
+			<dict>
+				<key>2.4.8</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:18:54Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>com.typesafe.play:play-specs2_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>com.typesafe.play:play-specs2_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>com.typesafe.play:play-ws_2.11</key>
+			<dict>
+				<key>2.4.8</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:21:37Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>com.typesafe.play:play-ws_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>com.typesafe.play:play-ws_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>com.typesafe.play:play_2.11</key>
+			<dict>
+				<key>2.4.8</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:21:57Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>com.typesafe.play:play_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>com.typesafe.play:play_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>io.argonaut:argonaut-scalaz_2.11</key>
+			<dict>
+				<key>6.2-M2</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:13:28Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>io.argonaut:argonaut-scalaz_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>io.argonaut:argonaut-scalaz_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>io.argonaut:argonaut_2.11</key>
+			<dict>
+				<key>6.2-M2</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:13:15Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>io.argonaut:argonaut_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>io.argonaut:argonaut_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.reactivemongo:play2-reactivemongo_2.11</key>
+			<dict>
+				<key>0.12.1-play24</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:19:23Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.reactivemongo:play2-reactivemongo_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.reactivemongo:play2-reactivemongo_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.reactivemongo:reactivemongo_2.11</key>
+			<dict>
+				<key>0.12.1</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T23:20:51Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.reactivemongo:reactivemongo_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.reactivemongo:reactivemongo_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.scalaz:scalaz-concurrent_2.11</key>
+			<dict>
+				<key>7.2.4</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:15:18Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.scalaz:scalaz-concurrent_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.scalaz:scalaz-concurrent_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.scalaz:scalaz-core_2.11</key>
+			<dict>
+				<key>7.2.4</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:15:32Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.scalaz:scalaz-core_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.scalaz:scalaz-core_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.specs2:specs2-core_2.11</key>
+			<dict>
+				<key>3.7.3</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-31T00:13:55Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.specs2:specs2-core_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.specs2:specs2-core_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.specs2:specs2-scalacheck_2.11</key>
+			<dict>
+				<key>3.7.3</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:12:14Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.specs2:specs2-scalacheck_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.specs2:specs2-scalacheck_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>org.specs2:specs2_2.11</key>
+			<dict>
+				<key>3.0</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-31T00:14:43Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.specs2:specs2_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.specs2:specs2_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
-		<dict/>
+		<dict>
+			<key>org.scalaz:scalaz-core_2.11</key>
+			<dict>
+				<key>7.2.7</key>
+				<dict>
+					<key>date</key>
+					<date>2017-01-30T22:13:56Z</date>
+					<key>entry</key>
+					<dict>
+						<key>name</key>
+						<string>org.scalaz:scalaz-core_2.11</string>
+						<key>platform</key>
+						<string>scaladoc</string>
+						<key>uniqueIdentifier</key>
+						<string>org.scalaz:scalaz-core_2.11</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>versionedDHStackOverflowRepo</key>
 	<dict>
@@ -254,7 +2230,21 @@
 	<key>versionedFeeds</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>http://kapeli.com/feeds/VMware_vSphere.xml</key>
+			<dict>
+				<key>6.0</key>
+				<dict>
+					<key>date</key>
+					<date>2017-03-01T20:47:51Z</date>
+				</dict>
+				<key>6.5</key>
+				<dict>
+					<key>date</key>
+					<date>2017-03-01T20:47:41Z</date>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>

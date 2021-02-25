@@ -36,6 +36,12 @@ function __promptline_ps1 {
   # section "c" slices
   __promptline_wrapper "$(__promptline_cwd)" "$slice_prefix" "$slice_suffix" && { slice_prefix="$slice_joiner"; is_prompt_empty=0; }
 
+  # section "x" header
+  slice_prefix="${x_bg}${sep}${x_fg}${x_bg}${space}" slice_suffix="$space${x_sep_fg}" slice_joiner="${x_fg}${x_bg}${alt_sep}" slice_empty_prefix="${x_fg}${x_bg}${space}"
+  [ $is_prompt_empty -eq 1 ] && slice_prefix="$slice_empty_prefix"
+  # section "x" slices
+  __promptline_wrapper "$(__promptline_kubernetes)" "$slice_prefix" "$slice_suffix" && { slice_prefix="$slice_joiner"; is_prompt_empty=0; }
+
   # section "y" header
   slice_prefix="${y_bg}${sep}${y_fg}${y_bg}${space}" slice_suffix="$space${y_sep_fg}" slice_joiner="${y_fg}${y_bg}${alt_sep}${space}" slice_empty_prefix="${y_fg}${y_bg}${space}"
   [ $is_prompt_empty -eq 1 ] && slice_prefix="$slice_empty_prefix"
@@ -50,6 +56,11 @@ function __promptline_ps1 {
 
   # close sections
   printf "%s" "${reset_bg}${sep}$reset$space"
+}
+function __promptline_kubernetes {
+  if [ -x "$(command -v kubectl)" ]; then
+    printf "\U00002388 %s $(kubectl config current-context) ($(kubectl config view --minify --output 'jsonpath={..namespace}'))"
+  fi
 }
 function __promptline_vcs_branch {
   local branch
@@ -134,6 +145,11 @@ function __promptline_right_prompt {
   # section "warn" slices
   __promptline_wrapper "$(__promptline_last_exit_code)" "$slice_prefix" "$slice_suffix" && { slice_prefix="$slice_joiner"; }
 
+  # section "x" header
+  slice_prefix="${x_sep_fg}${rsep}${x_fg}${x_bg}${space}" slice_suffix="$space${x_sep_fg}" slice_joiner="${x_fg}${x_bg}${alt_rsep}" slice_empty_prefix=""
+  # section "x" slices
+  __promptline_wrapper "$(__promptline_kubernetes)" "$slice_prefix" "$slice_suffix" && { slice_prefix="$slice_joiner"; }
+
   # section "y" header
   slice_prefix="${y_sep_fg}${rsep}${y_fg}${y_bg}${space}" slice_suffix="$space${y_sep_fg}" slice_joiner="${y_fg}${y_bg}${alt_rsep}${space}" slice_empty_prefix=""
   # section "y" slices
@@ -169,10 +185,13 @@ function __promptline {
   local b_sep_fg="${wrap}38;5;237${end_wrap}"
   local c_fg="${wrap}38;5;27${end_wrap}"
   local c_bg="${wrap}48;5;234${end_wrap}"
-  local c_sep_fg="${wrap}38;5;234${end_wrap}"
+  local c_sep_fg="${wrap}38;5;237${end_wrap}"
   local warn_fg="${wrap}38;5;232${end_wrap}"
   local warn_bg="${wrap}48;5;166${end_wrap}"
   local warn_sep_fg="${wrap}38;5;166${end_wrap}"
+  local x_fg="${wrap}38;5;15${end_wrap}"
+  local x_bg="${wrap}48;5;60${end_wrap}"
+  local x_sep_fg="${wrap}38;5;237${end_wrap}"
   local y_fg="${wrap}38;5;144${end_wrap}"
   local y_bg="${wrap}48;5;237${end_wrap}"
   local y_sep_fg="${wrap}38;5;237${end_wrap}"

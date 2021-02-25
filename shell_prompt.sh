@@ -59,7 +59,7 @@ function __promptline_ps1 {
 }
 function __promptline_kubernetes {
   if [ -x "$(command -v kubectl)" ]; then
-    printf "\U00002388 %s $(kubectl config current-context) ($(kubectl config view --minify --output 'jsonpath={..namespace}'))"
+    printf "\U00002388 %s" "$(kubectl config current-context) ($(kubectl config view --minify --output 'jsonpath={..namespace}'))"
   fi
 }
 function __promptline_vcs_branch {

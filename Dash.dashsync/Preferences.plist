@@ -9,7 +9,7 @@
 			<key>Atom</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-12T21:08:14Z</date>
+				<date>2019-12-14T21:34:10Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -25,7 +25,7 @@
 			<key>Git</key>
 			<dict>
 				<key>date</key>
-				<date>2019-01-28T05:03:49Z</date>
+				<date>2021-01-27T17:41:09Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -46,7 +46,7 @@
 			<key>Git_Flow</key>
 			<dict>
 				<key>date</key>
-				<date>2018-09-22T15:57:21Z</date>
+				<date>2019-12-14T21:34:10Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -67,7 +67,7 @@
 			<key>Vim</key>
 			<dict>
 				<key>date</key>
-				<date>2019-01-07T16:01:40Z</date>
+				<date>2019-12-14T21:34:10Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -126,7 +126,7 @@
 			<key>HaXml</key>
 			<dict>
 				<key>date</key>
-				<date>2018-11-02T16:47:58Z</date>
+				<date>2019-12-14T21:37:33Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -140,7 +140,7 @@
 			<key>aeson</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-13T01:26:43Z</date>
+				<date>2021-02-19T18:32:43Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -154,7 +154,7 @@
 			<key>aeson-better-errors</key>
 			<dict>
 				<key>date</key>
-				<date>2016-12-14T20:42:23Z</date>
+				<date>2019-12-14T21:38:16Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -168,7 +168,7 @@
 			<key>amqp</key>
 			<dict>
 				<key>date</key>
-				<date>2019-07-08T21:10:35Z</date>
+				<date>2021-01-14T22:11:05Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -182,7 +182,7 @@
 			<key>base</key>
 			<dict>
 				<key>date</key>
-				<date>2018-09-25T19:05:46Z</date>
+				<date>2020-12-15T18:38:07Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -196,7 +196,7 @@
 			<key>bitwise</key>
 			<dict>
 				<key>date</key>
-				<date>2018-04-29T16:02:55Z</date>
+				<date>2019-12-14T21:49:15Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -210,7 +210,7 @@
 			<key>cereal</key>
 			<dict>
 				<key>date</key>
-				<date>2019-06-04T22:55:00Z</date>
+				<date>2019-12-14T21:34:42Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -224,7 +224,7 @@
 			<key>classy-prelude</key>
 			<dict>
 				<key>date</key>
-				<date>2018-10-09T18:30:29Z</date>
+				<date>2019-12-14T21:43:15Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -238,7 +238,7 @@
 			<key>composite-aeson</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-30T01:04:12Z</date>
+				<date>2020-08-26T21:14:44Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -252,7 +252,7 @@
 			<key>composite-base</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-30T01:03:45Z</date>
+				<date>2020-08-26T21:14:22Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -266,7 +266,7 @@
 			<key>composite-ekg</key>
 			<dict>
 				<key>date</key>
-				<date>2018-04-14T18:46:37Z</date>
+				<date>2020-08-26T21:14:12Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -280,7 +280,7 @@
 			<key>composite-opaleye</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-30T01:04:05Z</date>
+				<date>2020-08-26T21:14:27Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -294,7 +294,7 @@
 			<key>conduit</key>
 			<dict>
 				<key>date</key>
-				<date>2019-03-12T16:03:15Z</date>
+				<date>2020-11-25T21:01:28Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -308,7 +308,7 @@
 			<key>connection</key>
 			<dict>
 				<key>date</key>
-				<date>2019-09-03T02:45:03Z</date>
+				<date>2019-12-14T21:36:38Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -322,7 +322,7 @@
 			<key>either</key>
 			<dict>
 				<key>date</key>
-				<date>2019-05-03T17:12:11Z</date>
+				<date>2019-12-14T21:37:13Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -336,7 +336,7 @@
 			<key>generic-lens</key>
 			<dict>
 				<key>date</key>
-				<date>2019-10-02T19:16:17Z</date>
+				<date>2021-01-27T17:41:49Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -350,7 +350,7 @@
 			<key>generics-eot</key>
 			<dict>
 				<key>date</key>
-				<date>2019-03-14T16:03:03Z</date>
+				<date>2019-12-14T21:40:22Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -364,7 +364,7 @@
 			<key>generics-sop</key>
 			<dict>
 				<key>date</key>
-				<date>2019-05-10T17:13:09Z</date>
+				<date>2021-02-23T18:33:11Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -378,7 +378,7 @@
 			<key>haskeline</key>
 			<dict>
 				<key>date</key>
-				<date>2019-01-17T22:11:55Z</date>
+				<date>2021-01-04T05:00:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -392,7 +392,7 @@
 			<key>hspec</key>
 			<dict>
 				<key>date</key>
-				<date>2019-03-30T04:26:34Z</date>
+				<date>2021-01-27T17:42:04Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -406,7 +406,7 @@
 			<key>hspec-expectations</key>
 			<dict>
 				<key>date</key>
-				<date>2018-06-28T17:17:41Z</date>
+				<date>2019-12-14T21:40:22Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -420,7 +420,7 @@
 			<key>http-conduit</key>
 			<dict>
 				<key>date</key>
-				<date>2019-10-11T02:13:11Z</date>
+				<date>2021-02-21T18:32:37Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -434,7 +434,7 @@
 			<key>http-types</key>
 			<dict>
 				<key>date</key>
-				<date>2019-02-24T16:09:06Z</date>
+				<date>2019-12-14T21:44:06Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -448,7 +448,7 @@
 			<key>immortal</key>
 			<dict>
 				<key>date</key>
-				<date>2018-04-16T18:56:34Z</date>
+				<date>2019-12-14T21:43:10Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -462,7 +462,7 @@
 			<key>keys</key>
 			<dict>
 				<key>date</key>
-				<date>2019-05-03T17:12:19Z</date>
+				<date>2020-01-29T20:47:14Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -476,7 +476,7 @@
 			<key>lens</key>
 			<dict>
 				<key>date</key>
-				<date>2019-09-16T21:36:10Z</date>
+				<date>2021-02-18T18:34:13Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -490,7 +490,7 @@
 			<key>lifted-async</key>
 			<dict>
 				<key>date</key>
-				<date>2019-05-03T17:12:32Z</date>
+				<date>2020-07-23T16:59:58Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -504,7 +504,7 @@
 			<key>logging</key>
 			<dict>
 				<key>date</key>
-				<date>2018-07-03T15:30:19Z</date>
+				<date>2019-12-14T21:34:37Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -518,7 +518,7 @@
 			<key>megaparsec</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-11T01:26:20Z</date>
+				<date>2020-10-30T18:05:23Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -532,7 +532,7 @@
 			<key>mmorph</key>
 			<dict>
 				<key>date</key>
-				<date>2019-04-30T17:12:36Z</date>
+				<date>2021-02-17T18:32:13Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -546,7 +546,7 @@
 			<key>monad-control</key>
 			<dict>
 				<key>date</key>
-				<date>2018-02-26T18:10:28Z</date>
+				<date>2019-12-14T21:36:57Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -560,7 +560,7 @@
 			<key>monad-logger</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-26T15:40:00Z</date>
+				<date>2020-11-24T21:00:55Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -574,7 +574,7 @@
 			<key>mongoDB</key>
 			<dict>
 				<key>date</key>
-				<date>2019-06-16T05:09:17Z</date>
+				<date>2020-02-09T21:14:03Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -588,7 +588,7 @@
 			<key>mtl</key>
 			<dict>
 				<key>date</key>
-				<date>2018-02-25T18:10:55Z</date>
+				<date>2019-12-14T21:40:04Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -602,7 +602,7 @@
 			<key>mustache</key>
 			<dict>
 				<key>date</key>
-				<date>2017-11-28T01:31:15Z</date>
+				<date>2019-12-17T20:08:08Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -616,7 +616,7 @@
 			<key>opaleye</key>
 			<dict>
 				<key>date</key>
-				<date>2019-09-11T20:03:11Z</date>
+				<date>2020-09-12T02:59:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -630,7 +630,7 @@
 			<key>persistent</key>
 			<dict>
 				<key>date</key>
-				<date>2019-10-31T05:00:30Z</date>
+				<date>2020-12-12T17:51:46Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -644,7 +644,7 @@
 			<key>persistent-mongoDB</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-21T01:04:18Z</date>
+				<date>2020-11-05T17:27:15Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -658,7 +658,7 @@
 			<key>persistent-postgresql</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-01T05:00:30Z</date>
+				<date>2020-12-11T05:24:19Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -672,7 +672,7 @@
 			<key>persistent-template</key>
 			<dict>
 				<key>date</key>
-				<date>2019-10-29T05:00:01Z</date>
+				<date>2020-11-05T17:27:41Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -686,7 +686,7 @@
 			<key>postgresql-simple</key>
 			<dict>
 				<key>date</key>
-				<date>2019-04-27T17:13:37Z</date>
+				<date>2021-01-07T05:01:23Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -700,7 +700,7 @@
 			<key>protocol-buffers</key>
 			<dict>
 				<key>date</key>
-				<date>2019-12-03T05:42:22Z</date>
+				<date>2020-11-09T18:09:05Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -714,7 +714,7 @@
 			<key>protocol-buffers-descriptor</key>
 			<dict>
 				<key>date</key>
-				<date>2019-12-03T05:42:00Z</date>
+				<date>2020-11-09T18:08:30Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -728,7 +728,7 @@
 			<key>rawstring-qm</key>
 			<dict>
 				<key>date</key>
-				<date>2018-01-04T20:56:30Z</date>
+				<date>2019-12-14T21:36:48Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -742,7 +742,7 @@
 			<key>resourcet</key>
 			<dict>
 				<key>date</key>
-				<date>2018-10-09T18:26:04Z</date>
+				<date>2020-06-25T15:51:34Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -756,7 +756,7 @@
 			<key>servant</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-03T21:10:29Z</date>
+				<date>2020-11-22T21:01:17Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -770,7 +770,7 @@
 			<key>servant-client</key>
 			<dict>
 				<key>date</key>
-				<date>2019-09-16T21:26:58Z</date>
+				<date>2020-11-22T21:00:29Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -784,7 +784,7 @@
 			<key>servant-server</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-03T21:10:02Z</date>
+				<date>2020-11-22T21:00:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -798,7 +798,7 @@
 			<key>singleton-bool</key>
 			<dict>
 				<key>date</key>
-				<date>2019-06-20T05:58:07Z</date>
+				<date>2019-12-14T21:36:29Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -812,7 +812,7 @@
 			<key>singletons</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-30T02:03:09Z</date>
+				<date>2020-04-03T19:40:49Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -826,7 +826,7 @@
 			<key>smallcheck-series</key>
 			<dict>
 				<key>date</key>
-				<date>2019-02-20T16:01:12Z</date>
+				<date>2021-02-17T18:32:21Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -840,7 +840,7 @@
 			<key>soap</key>
 			<dict>
 				<key>date</key>
-				<date>2018-03-17T18:34:03Z</date>
+				<date>2019-12-14T21:36:07Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -854,7 +854,7 @@
 			<key>soap-openssl</key>
 			<dict>
 				<key>date</key>
-				<date>2017-06-20T16:23:47Z</date>
+				<date>2019-12-14T21:36:46Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -868,7 +868,7 @@
 			<key>soap-tls</key>
 			<dict>
 				<key>date</key>
-				<date>2018-03-18T17:31:23Z</date>
+				<date>2019-12-14T21:39:25Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -882,7 +882,7 @@
 			<key>stm</key>
 			<dict>
 				<key>date</key>
-				<date>2018-09-22T15:57:48Z</date>
+				<date>2019-12-14T21:41:40Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -896,7 +896,7 @@
 			<key>stm-chans</key>
 			<dict>
 				<key>date</key>
-				<date>2017-02-05T18:34:44Z</date>
+				<date>2019-12-14T21:39:20Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -910,7 +910,7 @@
 			<key>stm-conduit</key>
 			<dict>
 				<key>date</key>
-				<date>2018-09-27T19:01:19Z</date>
+				<date>2019-12-14T21:39:25Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -924,7 +924,7 @@
 			<key>syb</key>
 			<dict>
 				<key>date</key>
-				<date>2019-06-16T05:08:44Z</date>
+				<date>2021-01-27T17:42:23Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -938,7 +938,7 @@
 			<key>tar</key>
 			<dict>
 				<key>date</key>
-				<date>2019-08-27T01:03:42Z</date>
+				<date>2019-12-14T21:38:40Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -952,7 +952,7 @@
 			<key>tasty-hspec</key>
 			<dict>
 				<key>date</key>
-				<date>2018-11-16T02:24:34Z</date>
+				<date>2020-11-12T21:01:12Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -966,7 +966,7 @@
 			<key>tasty-smallcheck</key>
 			<dict>
 				<key>date</key>
-				<date>2017-09-08T15:38:09Z</date>
+				<date>2020-12-18T18:29:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -980,7 +980,7 @@
 			<key>text-show</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-07T15:06:53Z</date>
+				<date>2020-10-03T20:02:39Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -994,7 +994,7 @@
 			<key>these</key>
 			<dict>
 				<key>date</key>
-				<date>2019-07-26T21:09:31Z</date>
+				<date>2020-07-15T04:37:57Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1008,7 +1008,7 @@
 			<key>transformers</key>
 			<dict>
 				<key>date</key>
-				<date>2019-02-02T05:04:05Z</date>
+				<date>2019-12-14T21:41:14Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1022,7 +1022,7 @@
 			<key>turtle</key>
 			<dict>
 				<key>date</key>
-				<date>2019-09-19T21:27:13Z</date>
+				<date>2020-08-16T21:14:21Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1036,7 +1036,7 @@
 			<key>vinyl</key>
 			<dict>
 				<key>date</key>
-				<date>2019-10-01T19:15:56Z</date>
+				<date>2020-07-10T03:21:58Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1050,7 +1050,7 @@
 			<key>wai</key>
 			<dict>
 				<key>date</key>
-				<date>2019-06-21T13:48:53Z</date>
+				<date>2021-01-27T17:41:46Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1064,7 +1064,7 @@
 			<key>wai-websockets</key>
 			<dict>
 				<key>date</key>
-				<date>2018-03-19T18:33:53Z</date>
+				<date>2019-12-14T21:38:27Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1078,7 +1078,7 @@
 			<key>warp</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-07T15:05:52Z</date>
+				<date>2021-02-04T17:42:26Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1092,7 +1092,7 @@
 			<key>websockets</key>
 			<dict>
 				<key>date</key>
-				<date>2019-10-30T05:00:38Z</date>
+				<date>2020-12-08T05:24:39Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1106,7 +1106,7 @@
 			<key>wrecker</key>
 			<dict>
 				<key>date</key>
-				<date>2018-01-15T20:21:04Z</date>
+				<date>2019-12-14T21:44:43Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1120,7 +1120,7 @@
 			<key>wreq</key>
 			<dict>
 				<key>date</key>
-				<date>2019-01-25T22:11:13Z</date>
+				<date>2021-02-09T18:31:44Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1134,7 +1134,7 @@
 			<key>xml-conduit</key>
 			<dict>
 				<key>date</key>
-				<date>2018-09-15T15:22:15Z</date>
+				<date>2021-01-27T17:42:18Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1148,7 +1148,7 @@
 			<key>xml-conduit-parse</key>
 			<dict>
 				<key>date</key>
-				<date>2017-11-28T01:31:07Z</date>
+				<date>2019-12-14T21:38:40Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1162,7 +1162,7 @@
 			<key>xml-conduit-writer</key>
 			<dict>
 				<key>date</key>
-				<date>2017-09-30T18:09:58Z</date>
+				<date>2019-12-14T21:50:27Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1176,7 +1176,7 @@
 			<key>xml-types</key>
 			<dict>
 				<key>date</key>
-				<date>2017-06-21T17:51:08Z</date>
+				<date>2020-07-13T03:44:17Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1190,7 +1190,7 @@
 			<key>yaml</key>
 			<dict>
 				<key>date</key>
-				<date>2019-11-07T15:05:56Z</date>
+				<date>2020-08-19T21:14:37Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1204,7 +1204,7 @@
 			<key>yesod</key>
 			<dict>
 				<key>date</key>
-				<date>2018-02-02T21:26:11Z</date>
+				<date>2020-08-09T21:14:11Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1218,7 +1218,7 @@
 			<key>yesod-websockets</key>
 			<dict>
 				<key>date</key>
-				<date>2019-06-17T05:08:49Z</date>
+				<date>2019-12-14T21:49:15Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1327,7 +1327,7 @@
 			<key>org.scalacheck:scalacheck_2.11</key>
 			<dict>
 				<key>date</key>
-				<date>2019-09-28T22:08:41Z</date>
+				<date>2020-12-18T18:29:17Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -1391,7 +1391,7 @@
 			<key>DraftJS</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-20T04:16:29Z</date>
+				<date>2019-12-14T21:34:12Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -1414,7 +1414,7 @@
 			<key>Immutable.js</key>
 			<dict>
 				<key>date</key>
-				<date>2016-04-19T02:51:18Z</date>
+				<date>2019-12-14T21:34:11Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -1438,7 +1438,7 @@
 			<key>Ramda</key>
 			<dict>
 				<key>date</key>
-				<date>2019-05-20T04:02:36Z</date>
+				<date>2020-04-02T19:10:18Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -1462,7 +1462,7 @@
 	<key>DHWebViewIsDark</key>
 	<true/>
 	<key>actuallyDarkWebView</key>
-	<false/>
+	<true/>
 	<key>annotationsAreShown</key>
 	<true/>
 	<key>docsets</key>
@@ -1477,92 +1477,92 @@
 			<key>http://kapeli.com/feeds/Akka.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:58Z</date>
+				<date>2019-12-14T21:34:34Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Chai.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-05-05T04:41:08Z</date>
+				<date>2019-12-14T21:36:35Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Docker.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-02-25T18:48:11Z</date>
+				<date>2019-12-14T21:35:47Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/HTML.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:18Z</date>
+				<date>2019-12-14T21:35:10Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Haskell.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:13Z</date>
+				<date>2019-12-14T21:34:29Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/JavaScript.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:49Z</date>
+				<date>2019-12-14T21:36:27Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Java_SE8.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:27Z</date>
+				<date>2019-12-14T21:36:21Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Lo-Dash.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:46:11Z</date>
+				<date>2019-12-14T21:34:44Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Man_Pages.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-02-25T18:47:52Z</date>
+				<date>2019-12-14T21:36:27Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Mocha.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-05-05T04:41:06Z</date>
+				<date>2019-12-14T21:34:48Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/MomentJS.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-04-28T19:36:46Z</date>
+				<date>2019-12-14T21:34:38Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/MongoDB.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-05-24T15:08:01Z</date>
+				<date>2019-12-14T21:36:20Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/NodeJS.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-08-19T18:31:57Z</date>
+				<date>2019-12-14T21:34:20Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Play_Scala.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:57Z</date>
+				<date>2019-12-14T21:35:11Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/PostgreSQL.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-02-27T21:26:26Z</date>
+				<date>2019-12-14T21:34:57Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/React.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:41Z</date>
+				<date>2019-12-14T21:34:42Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Scala.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2015-12-10T23:43:57Z</date>
+				<date>2019-12-14T21:35:48Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Sinon.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2016-05-04T22:58:18Z</date>
+				<date>2019-12-14T21:36:27Z</date>
 			</dict>
 		</dict>
 		<key>uninstalled</key>
@@ -1663,6 +1663,7 @@
 				<string>~/Library/Application Support/Dash/Haskell DocSets/protocolbuffers/protocolbuffers.docset</string>
 				<string>~/Library/Application Support/Dash/Haskell DocSets/monadlogger/monadlogger.docset</string>
 				<string>~/Library/Application Support/Dash/Haskell DocSets/mongoDB/mongoDB.docset</string>
+				<string>~/Library/Application Support/Dash/Versioned DocSets/orgreactivemongoreactivemongo211 - DHScalaRepo/0-12-1 2/ReactiveMongo.docset</string>
 			</array>
 			<key>name</key>
 			<string>Haskell</string>
@@ -1870,7 +1871,7 @@
 				<key>1.4.37.3</key>
 				<dict>
 					<key>date</key>
-					<date>2018-06-22T17:44:00Z</date>
+					<date>2019-12-14T21:36:06Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -1902,7 +1903,7 @@
 				<key>1.50.5</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:18:04Z</date>
+					<date>2019-12-14T21:36:21Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -1919,7 +1920,7 @@
 				<key>2.3</key>
 				<dict>
 					<key>date</key>
-					<date>2017-02-01T03:56:01Z</date>
+					<date>2019-12-14T21:36:49Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -1958,7 +1959,7 @@
 				<key>6.35.0</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-31T18:09:16Z</date>
+					<date>2019-12-14T21:37:12Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -1975,7 +1976,7 @@
 				<key>2.4.8</key>
 				<dict>
 					<key>date</key>
-					<date>2017-03-02T23:23:37Z</date>
+					<date>2019-12-14T21:37:01Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -1992,7 +1993,7 @@
 				<key>2.4.8</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:18:54Z</date>
+					<date>2019-12-14T21:36:51Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2009,7 +2010,7 @@
 				<key>2.4.8</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:21:37Z</date>
+					<date>2019-12-14T21:37:06Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2026,7 +2027,7 @@
 				<key>2.4.8</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:21:57Z</date>
+					<date>2019-12-14T21:37:34Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2043,7 +2044,7 @@
 				<key>6.2-M2</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:13:28Z</date>
+					<date>2019-12-14T21:36:44Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2060,7 +2061,7 @@
 				<key>6.2-M2</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:13:15Z</date>
+					<date>2019-12-14T21:37:02Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2077,7 +2078,7 @@
 				<key>0.12.1-play24</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:19:23Z</date>
+					<date>2019-12-14T21:37:04Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2094,7 +2095,7 @@
 				<key>0.12.1</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T23:20:51Z</date>
+					<date>2020-01-02T17:31:40Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2111,7 +2112,7 @@
 				<key>7.2.4</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:15:18Z</date>
+					<date>2019-12-14T21:35:54Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2128,7 +2129,7 @@
 				<key>7.2.4</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:15:32Z</date>
+					<date>2019-12-14T21:39:12Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2145,7 +2146,7 @@
 				<key>3.7.3</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-31T00:13:55Z</date>
+					<date>2019-12-14T21:37:42Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2162,7 +2163,7 @@
 				<key>3.7.3</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-30T22:12:14Z</date>
+					<date>2019-12-14T21:36:57Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2179,7 +2180,7 @@
 				<key>3.0</key>
 				<dict>
 					<key>date</key>
-					<date>2017-01-31T00:14:43Z</date>
+					<date>2019-12-14T21:39:18Z</date>
 					<key>entry</key>
 					<dict>
 						<key>name</key>
@@ -2236,12 +2237,12 @@
 				<key>6.0</key>
 				<dict>
 					<key>date</key>
-					<date>2017-03-01T20:47:51Z</date>
+					<date>2019-12-14T21:34:37Z</date>
 				</dict>
 				<key>6.5</key>
 				<dict>
 					<key>date</key>
-					<date>2017-03-01T20:47:41Z</date>
+					<date>2019-12-14T21:34:34Z</date>
 				</dict>
 			</dict>
 		</dict>

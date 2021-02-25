@@ -12,7 +12,7 @@ set shiftwidth=2
 set softtabstop=2
 
 " Remove any trailing whitespace that is in the file
-autocmd BufRead,BufWrite * if ! &bin | silent! %s/\s\+$//ge | endif
+autocmd BufWritePre *.hs * %s/\s\+$//e
 
 " Highlight search
 set hlsearch

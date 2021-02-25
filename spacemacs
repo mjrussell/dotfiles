@@ -38,13 +38,11 @@ values."
      sql
      yaml
      javascript
-     typescript
+     (typescript :variables
+                 tide-tsserver-executable "/usr/local/bin/tsserver")
      html
-     ;; haskell
-     (haskell :variables
-              haskell-process-type 'stack-ghci
-              haskell-enable-ghc-mod-support nil
-              haskell-completion-backend 'intero)
+     lsp
+     haskell
      scala
      nginx
      puppet
@@ -346,6 +344,8 @@ before packages are loaded. If you are unsure, you should try in setting them in
   ;; disable spell checking by default
   (setq-default dotspacemacs-configuration-layers
                 '((spell-checking :variables spell-checking-enable-by-default nil)))
+  ;; https://stackoverflow.com/questions/25125200/emacs-error-ls-does-not-support-dired
+  (setq-default dired-use-ls-dired nil)
   ;; Disable follow links
   (add-hook 'fundamental-mode (lambda () (goto-address-mode -1)))
   ;; Soft Tabs plz
@@ -386,8 +386,10 @@ you should place your code here."
   (setq show-trailing-whitespace t)
 
   ;; Use git ignore for projectile (maybe not needed)
-  (setq projectile-indexing-method 'alien)
+  (setq projectile-use-git-grep 1)
 
+  ;; https://emacs.stackexchange.com/questions/53667/how-to-disable-stack-with-flycheck-for-haskell
+  (add-to-list 'flycheck-disabled-checkers 'haskell-stack-ghc)
   ;; Web/JS Config
   (setq-default
    ;; js2-mode
